@@ -6,6 +6,10 @@ Welcome to your first project for the "History of Technology" class. Your assign
 
 [Alan Turing](alan-turing.md)
 
+[Bill Gates](bill-gates.md)
+
+[Steve Jobs](steve-jobs.md)
+
 
 1.1 : git clone
 
@@ -26,3 +30,7 @@ Welcome to your first project for the "History of Technology" class. Your assign
 |Voice over Internet Protocol launched 1995| ![image](https://i0.wp.com/www.mobilecellphonerepairing.com/wp-content/uploads/2013/07/how-voip-works.jpg?fit=1280%2C720)|
 |Google founded as a reaserch project 1996| ![image](https://tse1.mm.bing.net/th/id/OIP.UiCHHkUSt0i-qmrwNuVwNQAAAA?rs=1&pid=ImgDetMain&o=7&rm=3)|
 |Wi-Fi introduced 1997| ![image](https://tse1.mm.bing.net/th/id/OIP.RJlowgVXRHlwkalZW2k2_gHaEH?rs=1&pid=ImgDetMain&o=7&rm=3)|
+
+
+
+3.1 : git pull
