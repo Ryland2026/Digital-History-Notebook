@@ -4,7 +4,7 @@ Welcome to your first project for the "History of Technology" class. Your assign
 
 [Ada Lovelace](ada-lovelace.md)
 
-Alan Turing
+[Alan Turing](alan-turing.md)
 
 
 1.1 : git clone
