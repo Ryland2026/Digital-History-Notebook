@@ -6,3 +6,7 @@ Welcome to your first project for the "History of Technology" class. Your assign
 
 1.2 : breifing
 
+2.1 : alan-turning.md, ada-lovelace.md
+
+2.2 : insert ada and alan paragraphs
+
