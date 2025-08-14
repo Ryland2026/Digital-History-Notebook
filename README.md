@@ -52,5 +52,5 @@ Welcome to your first project for the "History of Technology" class. Your assign
 
 <h2>Final Thoughts</h2>
 
-In conclusion the people mentioned were hold key roles in the advancedments in computers which were the stepping stones to what computers are today.
+In conclusion the people mentioned were key roles in the advancedments in computers which were the stepping stones to what computers are today.
 
