@@ -34,3 +34,8 @@ Welcome to your first project for the "History of Technology" class. Your assign
 
 
 3.1 : git pull
+
+4.1 : ctrl s
+
+4.2 : git add . , git commit -m "" , git push
+
