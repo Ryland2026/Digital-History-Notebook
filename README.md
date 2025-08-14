@@ -43,3 +43,7 @@ Welcome to your first project for the "History of Technology" class. Your assign
 5.1 : that branch was behind original by one commit
 
 5.2 : git pull
+
+6.1 : Added Tim Berners-Lee
+
+6.2 : git push
