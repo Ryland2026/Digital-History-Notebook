@@ -47,3 +47,10 @@ Welcome to your first project for the "History of Technology" class. Your assign
 6.1 : Added Tim Berners-Lee
 
 6.2 : git push
+
+7.1 : git pull
+
+<h2>Final Thoughts</h2>
+
+In conclusion the people mentioned were hold key roles in the advancedments in computers which were the stepping stones to what computers are today.
+
