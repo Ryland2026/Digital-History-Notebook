@@ -39,3 +39,6 @@ Welcome to your first project for the "History of Technology" class. Your assign
 
 4.2 : git add . , git commit -m "" , git push
 
+5.1 : that branch was behind original by one commit
+
+5.2 : git pull
