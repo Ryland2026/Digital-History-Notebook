@@ -10,6 +10,7 @@ Welcome to your first project for the "History of Technology" class. Your assign
 
 [Steve Jobs](steve-jobs.md)
 
+[Tim Berners-Lee](tim-berners-lee.md)
 
 1.1 : git clone
 
